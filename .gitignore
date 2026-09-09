@@ -1,0 +1,22 @@
+# 编译产物
+dist/
+*.out
+
+# 内部文档
+*.internal.md
+
+# 本地配置（可能含凭据）
+configs/config.yaml
+*.local.yaml
+
+# 运行产物
+logs/
+*.log
+data/
+
+# 依赖
+node_modules/
+
+# IDE
+.idea/
+.vscode/
