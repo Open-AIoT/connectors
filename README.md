@@ -16,7 +16,7 @@
 
 ## 声明
 
-本项目与 OpenAI 公司无任何关联。"Open AIoT" 是芯步（ThingBoot）主导的开放物联网 AI 标准与生态品牌。
+**Open AIoT（开放AIoT）**——"Open"即"开放"。本项目是芯步（ThingBoot）主导的开放 AIoT 标准与生态品牌，与 OpenAI 公司无任何关联。
 
 ## License
 
